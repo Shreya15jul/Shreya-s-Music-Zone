@@ -1,1 +1,1 @@
-// App component placeholder
+// Enhanced App component placeholder
